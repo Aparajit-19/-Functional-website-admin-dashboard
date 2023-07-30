@@ -17,18 +17,19 @@
   <li align="left">Created APIs using Node.js and Express.js with TypeScript that connect the frontend with the backend database for content management.</li>  
 </ul>
 
-<h2 align="left">Techstack used:</h2>
+<h2 align="left">Main techstack used:</h2>
 <ol>
 <li align="left">REACT</li>
 <li align="left">TYPESCRIPT</li>
 <li align="left">REDUX</li>
 <li align="left">MONGODB, MOONGOOSE </li>
-<li align="left">OTHERS- NPM, NODEMON ETC... </li>
+<li align="left">OTHERS- NPM, NODEMON, API so on and so forth..... </li>
 </ol>
 
-<h2 align="left">Steps taken to run it:</h2>
+<h2 align="left">Steps taken:</h2>
 <ul>
-<li align="left">Initialization- npm init</li>
-<li align="left">Package installation (i.e., body-parser, express, moongoose and ejs)- npm install "package"</li>
-<li align="left">Run- mongod & nodemon "file name"</li>
+<li align="left">npx create-react-app website --template typescript</li>
+<li align="left">npm install redux react-redux redux-thunk axios</li>
+<li align="left">Package installation (i.e., -g ts-node, body-parser, express, moongoose, jsonwebtoken...etc)- npm install "package"</li>
+<li align="left">Run- mongod & nodemon "server.ts"</li>
 </ul>
