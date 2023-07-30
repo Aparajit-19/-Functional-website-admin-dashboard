@@ -1,4 +1,4 @@
-<h5>Warning: 65% done and remaining in-progress.</h5>
+<h5 align="center">Warning: 65% done and remaining in-progress.</h5>
 
 # FUNCTIONAL WEBSITE WITH ADMIN DASHBOARD
 
