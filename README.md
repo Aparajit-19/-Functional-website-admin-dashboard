@@ -1,7 +1,9 @@
+<h5>Warning: 65% done and remaining in-progress.</h5>
+
 # FUNCTIONAL WEBSITE WITH ADMIN DASHBOARD
 
 <hr/>
-<h2>Warning: 65% done and remaining in-progress.</h2>
+
 <h2 align="left">Description:</h2>
 
 <ul>
