@@ -1,32 +1,24 @@
-# Getting Started with Create React App
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# FUNCTIONAL WEBSITE WITH ADMIN DASHBOARD
 
-## Available Scripts
-In the project directory, you can run:
+<hr/>
 
-### `npm start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h2 align="left">Description:</h2>
+<ul>
+<li align="left">Implemented dribbble design into a functional website with admin dashboard by creating two sections of the page - the hero banner and the content section. Additionally, build a backend admin dashboard that allows the website owner to update the content on the hero banner and contact details.</li>
+</ul>
 
-### `npm test`
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2 align="left">Techstack used:</h2>
+<ol>
+<li align="left">REACT</li>
+<li align="left">TYPESCRIPT</li>
+<li align="left">REDUX</li>
+<li align="left">MONGODB, MOONGOOSE </li>
+<li align="left">OTHERS- NPM, NODEMON ETC... </li>
+</ol>
 
-### `npm run build`
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h2 align="left">Steps taken to run it:</h2>
+<ul>
+<li align="left">Initialization- npm init</li>
+<li align="left">Package installation (i.e., body-parser, express, moongoose and ejs)- npm install "package"</li>
+<li align="left">Run- mongod & nodemon "file name"</li>
+</ul>
