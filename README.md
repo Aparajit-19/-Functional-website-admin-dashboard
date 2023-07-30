@@ -1,3 +1,4 @@
+# Warning: 65% done and remaining in-progress.
 # FUNCTIONAL WEBSITE WITH ADMIN DASHBOARD
 
 <hr/>
