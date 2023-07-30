@@ -1,7 +1,7 @@
 {
-  "compilerOptions": {
+  "compilerOptions":{
     "target": "es5",
-    "lib": [
+    "lib":[
       "dom",
       "dom.iterable",
       "esnext"
@@ -20,7 +20,7 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "include": [
+  "include":[
     "src"
   ]
 }
